@@ -3,7 +3,7 @@ Type: Package
 Title: Wrapper functions for creating tidybulk objects
 Version: 0.1.0
 Author: Amit Indap
-Maintainer: The package maintainer <aindap@xencor.com>
+Maintainer: The package maintainer <indapa AT gmail>
 Description: Wrapper functions for creating tidybulk objects
     Use four spaces when indenting paragraphs within the Description.
 License: What license is it under?
