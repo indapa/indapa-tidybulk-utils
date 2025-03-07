@@ -1,0 +1,17 @@
+Package: TidybulkUtils
+Type: Package
+Title: Wrapper functions for creating tidybulk objects
+Version: 0.1.0
+Author: Amit Indap
+Maintainer: The package maintainer <aindap@xencor.com>
+Description: Wrapper functions for creating tidybulk objects
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Imports:
+    tidyverse,
+    tidybulk,
+    stringr,
+    ggrepel
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
